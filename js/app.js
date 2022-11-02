@@ -97,7 +97,7 @@ function init() {
         marker: {
         size: sample_values,
         color: otu_ids,
-        colorscale:"Electric"
+        colorscale:"Picnic"
         }
     };
     var data = [trace1];
