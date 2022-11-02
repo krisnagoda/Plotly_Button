@@ -40,7 +40,22 @@ function init() {
         title: 'Belly Button Washing Frequency (weekly)',
         titlefont: {family: '"Palatino Linotype", "Book Antiqua", Palatino, serif'},
         type: "indicator",
-        mode: "gauge+number"
+        mode: "gauge+number",
+        gauge: {
+          axis: { range: [null, 10], tickwidth: 1, tickcolor: "#00008B" },
+          bar: { color: "#ffffff" },
+          bgcolor: "white",
+          borderwidth: 2,
+          bordercolor: "#808080",
+          steps: [
+            {range: [0, 2], color: "#8A8AFF" },
+            {range: [2, 4], color: "#5C5CFF" },
+            {range: [4, 6], color: "#2E2EFF" },
+            {range: [6, 8], color: "#0000FF" },
+            {range: [8, 10], color: "#0000A3" }
+          ],
+        }
+
       }
     ];
     
