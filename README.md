@@ -2,4 +2,4 @@
  
 **Note**: No written analysis required for this challenge.
 
-![This is an image](https://github.com/krisnagoda/Plotly_Button/blob/8186ec91c082bbc7bdeedc8b698ac1690afb4a63/images/belly_button_site_image.png)
+![This is an image](https://github.com/krisnagoda/Plotly_Button/blob/fb61122d0914f070e96bd942f4173ed4f3250c25/images/belly_button_site_image.png)
