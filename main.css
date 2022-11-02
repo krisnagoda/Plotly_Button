@@ -1,0 +1,44 @@
+.jumbotron {
+	color: #f0e7e7;
+	font-family: Garamond;
+	background-image: url("Images/fake_burger_invert.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#metaPanel {
+	font-size: smaller;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-color: #ffffff;
+	color: #4b4b4b;
+}
+
+#metaPanel .panel-header {
+	text-align: center;
+    background-color: #ffffff;
+	color: #4b4b4b;
+}
+
+#selDataset {
+	padding: 7px;
+	color: black;
+}
+
+#samplePanel {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align: center;
+	color: #4b4b4b;
+	background-color: #ffffff;
+}
+
+#metaPanel .panel-footer {
+	text-align: center;
+}
+
+#metaPanel .panel-ins {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align: left;
+	color: #ffffff;
+	size: 16pt;
+}
